@@ -38,4 +38,4 @@ $ gestor-tareas listar
 
 ## Autor
 
-Tu nombre, curso 2026/2027.
+Melina, curso 2026/2027.
